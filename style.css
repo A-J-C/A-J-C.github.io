@@ -130,7 +130,7 @@ blockquote {
     cursor: pointer;
 }
 
-a img:hover .over {
+.image:hover .over {
     cursor: pointer;
     opacity: 1;
 }
@@ -145,6 +145,6 @@ a img:hover .over {
   -ms-transform: translate(-50%, -50%)
 }
 
-a img:hover {
+.image:hover {
   opacity: 0.3;
 }
