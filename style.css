@@ -24,6 +24,7 @@ body {
 
 .navbar {
     background-color: #303030;
+    -webkit-backface-visibility: hidden;
 }
 
 .navbar-fixed-top.opaque { 
